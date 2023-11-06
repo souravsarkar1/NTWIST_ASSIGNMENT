@@ -1,0 +1,81 @@
+/* Codespaces.css */
+
+.codespaces {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 50px;
+  /* background-color: #f9f9f9; */
+  color: #ffffff;
+}
+
+.codespacesContent {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+}
+
+.codespacesContent h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.codespacesContent h2 span {
+  color: #007bff;
+}
+
+.codespacesContent button {
+  padding: 15px 30px;
+  font-size: 18px;
+  background-color: #3b4958;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.codespacesContent button:hover {
+  background-color: #0056b3;
+  text-decoration: underline;
+  transition: text-decoration 1s ease;
+}
+
+.codespacesImage {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.codespacesImage img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.advitagement {
+  /* border: 1px solid red; */
+  flex-direction: column;
+  display: flex;
+  align-items: start;
+  width: 80%;
+  margin: auto;
+}
+
+.advitagement button {
+  /* background: #000; */
+  border: 1px solid green;
+  padding: 3px;
+  border-radius: 15px;
+  width: 150px;
+  color: green;
+
+}
+
+.advitagement h1 {
+  font-size: 40px;
+  color: green;
+}

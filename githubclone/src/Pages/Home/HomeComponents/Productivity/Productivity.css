@@ -1,0 +1,35 @@
+/* Add this CSS to your stylesheets */
+
+.productivity-container {
+    padding: 50px;
+    width: 80%;
+    /* border: 1px solid red; */
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0px 0px 100px;
+    align-items: start;
+    
+}
+
+.productivity-title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 20px;
+   
+}
+
+.productivity-description {
+    font-size: 38px;
+    color: #ffffff;
+    /* max-width: 600px; */
+    width: 100%;
+    align-items: baseline;
+    text-align: left;
+
+    /* margin: 0 auto; */
+}
+.productivity-description span{
+    color: rgb(71, 211, 71);
+}

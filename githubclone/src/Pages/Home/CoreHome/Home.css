@@ -1,0 +1,10 @@
+.home {
+  /* background-image: url('https://i.postimg.cc/c4cwNKfb/nasa-Q1p7bh3-SHj8-unsplash.jpg'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* height: 100vh;
+  width: 100vw; */
+  margin: 0;
+  padding: 0;
+}

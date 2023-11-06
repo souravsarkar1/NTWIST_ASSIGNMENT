@@ -1,0 +1,72 @@
+.inputcontainertrustedcompany {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    /* background-color: #f5f5f5; */
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+#inputfield {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#inputfield input {
+    flex: 1;
+    margin: 0;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+#inputfield button {
+    margin: 0;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 10px;
+    background-color: #6e40c9;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#inputfield button#trail {
+    margin-left: 60px;
+    background-color: #141415;
+    width: 280px;
+
+}
+
+#inputfield button:hover, 
+#inputfield button#trail:hover {
+    background-color: #542e91;
+}
+
+#comapnies{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 60px;
+    margin-top: 30px;
+    /* border: 1px solid red; */
+    width: 100%;
+}
+
+#comapnies img{
+    width: 100px;
+    height: 50px;
+}
+
+@media (max-width: 768px) {
+    .inputcontainertrustedcompany {
+        width: 90%;
+    }
+}
