@@ -26,7 +26,7 @@ const Footer = () => {
       <Center>
         <Flex gap={4} m={3}>
           <AiFillLinkedin color='white' size={30} />
-          <AiFillTwitterCircle  />
+          <AiFillTwitterCircle color='white' size={30} />
         </Flex>
       </Center>
       <Center>
