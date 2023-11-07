@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 
 ## Technologies Used
 
-- [List the technologies/frameworks/libraries used in your project]
+- React, HTML, Css, JS, Chakra Ui
 
 ## Contributing
 
