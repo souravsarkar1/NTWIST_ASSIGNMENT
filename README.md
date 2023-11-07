@@ -1,6 +1,6 @@
 # NTWIST Clone
 
-Welcome to the NTWIST Clone project! This repository contains the code for a clone of NTWIST, a project created for [Company Name]'s assignment. The project aims to replicate the functionality and design of NTWIST's website.
+Welcome to the NTWIST Clone project! This repository contains the code for a clone of NTWIST, a project created for Finmee's assignment. The project aims to replicate the functionality and design of NTWIST's website.
 
 ## Live Deployment
 
