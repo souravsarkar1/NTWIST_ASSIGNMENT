@@ -41,7 +41,8 @@ If you would like to contribute to this project, please follow the [guidelines f
 
 ## Acknowledgements
 
-- [Mention any resources, tutorials, or third-party libraries used in your project]
+- Chakra Ui
+- React js Particle
 
 ---
 
